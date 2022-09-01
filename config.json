@@ -1,0 +1,8 @@
+{
+  "prefix": "prefix here",
+  "token": "BOT TOKEN HERE",
+  "status":{
+    		"name": "apollo-dev.ml",
+    		"type": "watching"
+    	}
+}
